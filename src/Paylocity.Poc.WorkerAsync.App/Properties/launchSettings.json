@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Paylocity.Poc.WorkerAsync.App": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "SQS_URL": "https://sqs.us-east-2.amazonaws.com/620915815640/poc-fargateworkerasync-svc-us-east-2-queue276F7297-VFLbR7k3d0Pd"
+      }
+    }
+  }
+}

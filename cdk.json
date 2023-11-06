@@ -1,5 +1,5 @@
 {
-  "app": "dotnet run --project src/PaylocityPocWorkerAsync/PaylocityPocWorkerAsync.csproj",
+  "app": "dotnet run --project src/Paylocity.Poc.WorkerAsync.Cdk/Paylocity.Poc.WorkerAsync.Cdk.csproj",
   "watch": {
     "include": [
       "**"
